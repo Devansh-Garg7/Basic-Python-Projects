@@ -2,6 +2,7 @@
 The Repository contains basic projects made with the intent of learning and implementing python programming knowledge.
 
 The projects contained in this repository are :
+
 Clock: It in an analog clock with a simple to understand code and customizable design.
 
 Currency Exchanger: Developed to inter convert currency values, it uses latest exchange rate into consideration.
